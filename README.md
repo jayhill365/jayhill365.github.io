@@ -1,2 +1,2 @@
 # jayhill365.github.io
-JavaScript
+Jay Hill Portfolio Template 
