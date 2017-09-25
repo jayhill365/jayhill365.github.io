@@ -1,0 +1,95 @@
+.work-header{
+    background-size: 100% 100% !important;
+    height: 445px;
+}
+.main-work-header{
+    background: url('../images/main-work-header.png') no-repeat;
+    background-size: 100% 100% !important;
+}
+.zoneme_header{
+    background: url('../images/zoneme_header.png') no-repeat;
+
+}
+.ivq_header,.wawm-header,.work-ivq,.work-adidas,.work-wwam,.work-mbu{
+    background: url('../images/ivq_background.png') no-repeat;
+
+}
+.kidzjet_header,.work-kidzjet{
+    background: url('../images/kidzjet_header.png') no-repeat;
+
+}
+.dashbox-header,.work-dashbox{
+    background: url('../images/dashbox-header.png') no-repeat;
+}
+.limelight-header,.work-limelight{
+    background: url('../images/kidzjet_header.png') no-repeat;
+}
+.waryt-header,.work-waryt{
+    background: url("../images/waryt-background.png") no-repeat;
+}
+.ivq_header,.wawm-header{
+    color: black;
+}
+
+.row.text-center.helvetica.be-smarty  p {
+    font-size: 20px;
+    padding: 50px 230px;
+    text-align: left;
+}
+.be-smarty img{
+
+    margin: auto;
+    margin-top: -100px !important;
+
+}
+.screen-shots div > img{
+    margin: auto;
+    padding: 15px 30px;
+}
+.screen-shots div{
+    padding-bottom: 50px;
+}
+.blue-navigation,.challenge-solution{
+    padding:20px 100px;
+
+}
+.screen-shots{
+    padding: 90px 0px;
+}
+.screen-shots .col-sm-10{
+    margin-bottom: 50px;
+}
+.main-work-body{
+    background-size: 100% 100% !important;
+    height: 700px;
+    padding: 125px 70px;
+}
+.work-zoneme{
+    background:url('../images/work-zonme.png') no-repeat;
+}
+.font-52{
+    font-size: 52px;
+}
+.browser-img{
+    /*height: 465px;*/
+    /*width: 600px;*/
+    height: 465px;
+    overflow: hidden;
+    width: 100%;
+}
+.download-button-section{
+    padding: 30px 70px;
+}
+.main-work-body .col-sm-6.white >.viewProject {
+    border: 2px solid white;
+    padding: 6px 18px;
+    color: white;
+}
+.main-work-body .col-sm-6 .viewProject {
+    border: 2px solid black;
+    padding: 6px 18px;
+    color: black;
+}
+.main-work-body .col-sm-6 a{
+    text-decoration: none;
+}
