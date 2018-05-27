@@ -24,7 +24,7 @@ window.onload = function() {
     '😎',
     "I'm Jay Hill ✌️",
     'I design & code  💻',
-    'Email me to learn more',
+    'Email me to learn more 📥',
     ' @ <a href="mailto:jaaaayy@icloud.com">jaaaayy@icloud.com</a>',
     '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
     getCurrentTime(),
