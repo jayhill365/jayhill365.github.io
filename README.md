@@ -1,6 +1,3 @@
-# jayhill365.github.io
-# JavaScript
-# react js styled web page 
 # Check it out jayhill365.github.io
 
 # 1. Git clone repo & go into repo and edit files as needed
