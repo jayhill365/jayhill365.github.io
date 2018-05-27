@@ -21,7 +21,7 @@ window.onload = function() {
   };
 
   var messages = [
-    'Hey there 😎😎😎😎',
+    '😎',
     "I'm Jay Hill ✌️",
     'I design & code  💻',
     'Email me to learn more',
