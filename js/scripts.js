@@ -1,7 +1,7 @@
 /*
  * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
- * Copyright (c) 2016 Julian Garnier
+ * Copyright (c) 2016 Jay Hill
  */
 
 window.onload = function() {
@@ -25,7 +25,7 @@ window.onload = function() {
     "I'm Jay Hill ✌️",
     'I design & code  💻',
     'Email me to learn more',
-    'or inquire about working with me @<br> <a href="mailto:jaaaayy@icloud.com">jaaaayy@icloud.com</a>',
+    '<br> <a href="mailto:jaaaayy@icloud.com">jaaaayy@icloud.com</a>',
     '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
     getCurrentTime(),
   ];
