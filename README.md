@@ -1,6 +1,6 @@
 # jayhill365.github.io
 # JavaScript
-# Interactive imessage web page 
+# react js styled web page 
 # Check it out jayhill365.github.io
 
 # 1. Git clone repo & go into repo and edit files as needed
