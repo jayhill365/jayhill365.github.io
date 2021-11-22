@@ -1,4 +1,4 @@
-# go to my website jayhill365.github.io
+# Go to my website jayhill365.github.io
 
 # 1. Git clone repo & go into repo and edit files as needed
 # 2. python -m SimpleHTTPServer 8080 to set up simple server
