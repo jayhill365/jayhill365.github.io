@@ -27,6 +27,9 @@ window.onload = function() {
     'Email me to learn more',
     ' @ <a href=":https://jayhill365@icloud.com">jayhill365@icloud.com</a>',
     '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
+    '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
+    '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
+    
     getCurrentTime(),
   ];
 
