@@ -26,9 +26,11 @@ window.onload = function() {
     'I design & code  💻',
     'Email me to learn more',
     ' @ <a href=":https://jayhill365@icloud.com">jayhill365@icloud.com</a>',
-    '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
-    '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
-    '& check out my repo <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
+    'Check out my repo on Github <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
+    'Check out my blog on Medium <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
+    'Check out my Linkedin <br> <a href="https://linkedin.com/in/ja-hill">linkedin.com/in/ja-hill</a>',
+    'Check out my Twitter <br> <a href="https://twitter.com/_jayhill">twitter.com/_jayhill</a>',
+    'Check out my instagram <br> <a href="https://www.instagram.com/1jayhill/">instagram.com/1jayhill/</a>',
     
     getCurrentTime(),
   ];
