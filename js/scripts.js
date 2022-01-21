@@ -22,7 +22,7 @@ window.onload = function() {
 
   var messages = [
     '✨💻🌃',
-    "I'm Jay Hill ✌️",
+    "I'm Jay Hill 🧿",
     'I design & code  💻',
     'Email me to learn more',
     ' @ <a href=":https://jayhill365@icloud.com">jayhill365@icloud.com</a>',
