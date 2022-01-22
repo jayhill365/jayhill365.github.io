@@ -21,9 +21,9 @@ window.onload = function() {
   };
 
   var messages = [
-    '✨💻🌃',
+    '💻🌃',
     "I'm Jay Hill 🧿",
-    'I design & code  💻',
+    'I Design & Code  💻',
     'Email me to learn more',
     ' @ <a href=":https://jayhill365@icloud.com">jayhill365@icloud.com</a>',
     'Check out my repo on Github <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
