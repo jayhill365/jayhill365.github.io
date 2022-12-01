@@ -28,7 +28,7 @@ window.onload = function() {
     'Check out my Twitter <br> <a href="https://twitter.com/_jayhill">twitter.com/_jayhill</a>',
     'Check out my Linkedin <br> <a href="https://linkedin.com/in/ja-hill">linkedin.com/in/ja-hill</a>',
     'Check out my repo on Github <br> <a href="http://github.com/jayhill365">github.com/jayhill365</a>',
-    'Check out my photography site <br> <a href="https://www.jayhillproductions.com/blog/blog.html">jayhillproductions.com/blog/blog.html/</a>',
+    'Check out my photography site <br> <a href="https://www.jayhillproductions.com/blog/blog.html">jayhillproductions.com/blog/blog.html</a>',
     'Check out my blog on Medium <br> <a href="https://1jayhill.medium.com">1jayhill.medium.com</a>',
     'Check out my Instagram <br> <a href="https://www.instagram.com/1jayhill/">instagram.com/1jayhill/</a>',
 
